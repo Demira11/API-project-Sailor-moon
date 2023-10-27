@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Usagi Tsukino",
+    "japaneseName": "月野 うさぎ",
+    "englishName": "Serena Tsukino",
+    "moon": "Sailor Moon",
+    "image": "https://dw9to29mmj727.cloudfront.net/properties/2016/432-SeriesThumbnails_SM__400x320.jpg"
+  },
+  {
+    "name": "Ami Mizuno",
+    "japaneseName": "水野 亜美",
+    "englishName": "Amy Anderson",
+    "moon": "Sailor Mercury",
+    "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddc0e032-a566-4586-4756-7efee04ce600/width=450/14.jpeg"
+  },
+  {
+    "name": "Rei Hino",
+    "japaneseName": "火野 レイ",
+    "englishName": "Raye Hino",
+    "moon": "Sailor Mars",
+    "image": "https://vignette2.wikia.nocookie.net/parody/images/2/2d/Sailor.Mars.full.179772.jpg/revision/latest?cb=20140617013544"
+  },
+  {
+    "name": "Makoto Kino",
+    "japaneseName": "木野 まこと",
+    "englishName": "Lita Kino",
+    "moon": "Sailor Jupiter",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/901f1ae5-a6fe-48cb-a9df-7fb74b219983/dcrexl6-1a24ee0d-6951-4ca3-90c9-c525e52cffd7.png/v1/fill/w_750,h_1066/sailor_jupiter_by_flavio_ruru_dcrexl6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkwMWYxYWU1LWE2ZmUtNDhjYi1hOWRmLTdmYjc0YjIxOTk4M1wvZGNyZXhsNi0xYTI0ZWUwZC02OTUxLTRjYTMtOTBjOS1jNTI1ZTUyY2ZmZDcucG5nIiwiaGVpZ2h0IjoiPD0xMjgwIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC85MDFmMWFlNS1hNmZlLTQ4Y2ItYTlkZi03ZmI3NGIyMTk5ODNcL2ZsYXZpby1ydXJ1LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.z0Yy5_N6jlEfae85G9TAovPhnHQi5D6Hl3Kim2DpHW4"
+  },
+  {
+    "name": "Minako Aino",
+    "japaneseName": "愛野 美奈子",
+    "englishName": "Mina Aino",
+    "moon": "Sailor Venus",
+    "image": "https://i.pinimg.com/564x/b3/bf/e3/b3bfe3a8bd7e5b731fec63051369dac2.jpg"
+  },
+  {
+    "name": "Luna",
+    "japaneseName": "ルナ",
+    "englishName": "Luna",
+    "moon": "Guardian Cat",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4d/Luna_Sailor_Moon.jpg"
+  },
+  {
+    "name": "Artemis",
+    "japaneseName": "アルテミス",
+    "englishName": "Artemis",
+    "moon": "Guardian Cat",
+    "image": "https://static.wikia.nocookie.net/sailormoon/images/2/2e/Artemis_profile_anime.png/revision/latest?cb=20210212172839"
+  },
+  {
+    "name": "Michiru Kaiou",
+    "japaneseName": "海王 みちる",
+    "englishName": "Michelle Kaiou",
+    "moon": "Sailor Neptune",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/174ca359-5677-4512-9196-30e8f47d944b/df0umbh-10347920-5784-432d-9f0d-4c5df38b6ccc.jpg/v1/fill/w_1024,h_1449,q_75,strp/super_sailor_neptune_by_hisui1986_df0umbh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3NGNhMzU5LTU2NzctNDUxMi05MTk2LTMwZThmNDdkOTQ0YlwvZGYwdW1iaC0xMDM0NzkyMC01Nzg0LTQzMmQtOWYwZC00YzVkZjM4YjZjY2MuanBnIiwiaGVpZ2h0IjoiPD0xNDQ5Iiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvMTc0Y2EzNTktNTY3Ny00NTEyLTkxOTYtMzBlOGY0N2Q5NDRiXC9oaXN1aTE5ODYtNC5wbmciLCJvcGFjaXR5Ijo5NSwicHJvcG9ydGlvbnMiOjAuNDUsImdyYXZpdHkiOiJjZW50ZXIifX0.yNX5v-l4dX9b7VthxxTa89D-lCFHFlnaEfDh_8F-WEU"
+  },
+  {
+    "name": "Haruka Tenou",
+    "japaneseName": "天王 はるか",
+    "englishName": "Amara Tenou",
+    "moon": "Sailor Uranus",
+    "image": "https://www.giantbomb.com/a/uploads/scale_medium/11/110502/1560706-uranus.jpg"
+  },
+  {
+    "name": "Hotaru Tomoe",
+    "japaneseName": "土萠 ほたる",
+    "englishName": "Sara Tomoe",
+    "moon": "Sailor Saturn",
+    "image": "https://i.pinimg.com/1200x/23/bb/7f/23bb7f2a5d866a161e3f285f98711f91.jpg"
+  }
+]

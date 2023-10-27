@@ -1,4 +1,4 @@
-import db from "../db/connection.js";
+import db from "../db/connections.js";
 import Character from "../models/Character.js";
 import characters from "./characters.json" assert { type: "json" };
 import chalk from "chalk";
