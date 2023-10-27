@@ -8,7 +8,7 @@ let CharacterSchema = new Schema({
   japaneseName: { type: String },
   englishName: { type: String },
   moon: { type: String },
-  image: { type: Boolean },
+  image: { type:  },
   
 });
 
