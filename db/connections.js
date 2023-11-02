@@ -1,9 +1,12 @@
 import mongoose from "mongoose";
 import chalk from "chalk";
 
+let MONGODB_URI =
+  process.env.PROD_MANGODB || "mongodb://127.0.0.1:27017/the-planet-gals";
+
 mongoose.set("returnOriginal", false);
 
-mongoose.connect("mongodb://127.0.0.1:27017/the-planet-gals").catch((err) => {
+mongoose.connect(MONGODB_URI).catch((err) => {
   console.log(`Error connection go MongoDB: ${err.message}`);
 });
 
@@ -16,4 +19,3 @@ mongoose.connection.on("error", (err) => {
 });
 
 export default mongoose.connection;
-
