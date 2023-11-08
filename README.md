@@ -46,3 +46,5 @@ Run the seed script to populate the database with initial data: npm run seed.
 Start the server using npm start.
 Access the API endpoints at http://localhost:3000/api/characters.
 Feel free to explore the API and enjoy Sailor Moon character details!
+
+Heroku: https://dashboard.heroku.com/apps
